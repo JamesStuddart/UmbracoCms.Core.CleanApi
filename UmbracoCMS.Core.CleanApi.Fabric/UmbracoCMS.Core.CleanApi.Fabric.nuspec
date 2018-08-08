@@ -1,18 +1,25 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>UmbracoCms.Core.CleanApi.Fabric</id>
+    <id>UmbracoCms-Core-CleanApi-Fabric</id>
     <version>1.0.0</version>
     <title>UmbracoCms CleanApi Fabric</title>
     <authors>James Studdart</authors>
     <owners>James Studdart</owners>
     <licenseUrl>https://github.com/JamesStuddart/UmbracoCms.Core.CleanApi/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/JamesStuddart/UmbracoCms.Core.CleanApi/</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/JamesStuddart/UmbracoCms.Core.CleanApi/master/UmbracoCms.Core.CleanApi/https://raw.githubusercontent.com/JamesStuddart/UmbracoCms.Core.CleanApi/master/UmbracoCms.Core.CleanApi/favicon.png.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/JamesStuddart/UmbracoCms.Core.CleanApi/master/UmbracoCms.Core.CleanApi/nuget-image.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Companion library for UmbracoCMS.Core.CleanApi - All the Power of UmbracoCMS without the debris of the FULL Umbraco CMS</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright James Studdart 2018</copyright>
     <tags>Umbraco UmbracoCMS UmbracoHeadless headless UmbracoCore CleanApi</tags>
+    <dependencies>
+      <dependency id="UmbracoCms.Core" version="7.11.1"/>
+      <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.3"  />
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="5.2.3" />
+      <dependency id="Newtonsoft.Json" version="10.0.2" />
+      <dependency id="UmbracoCms.Core" version="7.11.1" />
+    </dependencies>
   </metadata>
 </package>

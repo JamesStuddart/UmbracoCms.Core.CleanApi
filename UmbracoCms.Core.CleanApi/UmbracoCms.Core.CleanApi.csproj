@@ -230,6 +230,9 @@
     <Reference Include="Umbraco.Web.UI, Version=1.0.6750.39779, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\UmbracoCms.Core.7.11.1\lib\net45\Umbraco.Web.UI.dll</HintPath>
     </Reference>
+    <Reference Include="UmbracoCMS.Core.CleanApi.Fabric, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\UmbracoCms-Core-CleanApi-Fabric.1.0.0\lib\net452\UmbracoCMS.Core.CleanApi.Fabric.dll</HintPath>
+    </Reference>
     <Reference Include="UmbracoExamine, Version=0.7.0.39772, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\UmbracoCms.Core.7.11.1\lib\net45\UmbracoExamine.dll</HintPath>
     </Reference>
@@ -269,12 +272,6 @@
     <Folder Include="App_Data\TEMP\ExamineIndexes\InternalMember\Index\" />
     <Folder Include="App_Data\TEMP\ExamineIndexes\Internal\Index\" />
     <Folder Include="App_Data\TEMP\PluginCache\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\UmbracoCMS.Core.CleanApi.Fabric\UmbracoCMS.Core.CleanApi.Fabric.csproj">
-      <Project>{717321af-c935-4192-becc-9e4ba9f50b7b}</Project>
-      <Name>UmbracoCMS.Core.CleanApi.Fabric</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
