@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("UmbracoCms.Core.CleanApi")]
 [assembly: AssemblyDescription("All the Power of UmbracoCMS without the debris of the FULL Umbraco CMS")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("James Studdart")]
 [assembly: AssemblyProduct("UmbracoCms.Core.CleanApi")]
 [assembly: AssemblyCopyright("Copyright © James Studdart 2018")]
 [assembly: AssemblyTrademark("")]

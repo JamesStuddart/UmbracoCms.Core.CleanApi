@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UmbracoCMS.Core.CleanApi.Fabric")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Companion library for UmbracoCMS.Core.CleanApi - All the Power of UmbracoCMS without the debris of the FULL Umbraco CMS")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("James Studdart")]
 [assembly: AssemblyProduct("UmbracoCMS.Core.CleanApi.Fabric")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright © James Studdart 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

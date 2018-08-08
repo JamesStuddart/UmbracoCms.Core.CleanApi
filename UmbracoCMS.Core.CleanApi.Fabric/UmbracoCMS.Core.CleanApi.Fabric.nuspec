@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UmbracoCms.Core.CleanApi.Fabric</id>
+    <version>1.0.0</version>
+    <title>UmbracoCms CleanApi Fabric</title>
+    <authors>James Studdart</authors>
+    <owners>James Studdart</owners>
+    <licenseUrl>https://github.com/JamesStuddart/UmbracoCms.Core.CleanApi/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/JamesStuddart/UmbracoCms.Core.CleanApi/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/JamesStuddart/UmbracoCms.Core.CleanApi/master/UmbracoCms.Core.CleanApi/https://raw.githubusercontent.com/JamesStuddart/UmbracoCms.Core.CleanApi/master/UmbracoCms.Core.CleanApi/favicon.png.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Companion library for UmbracoCMS.Core.CleanApi - All the Power of UmbracoCMS without the debris of the FULL Umbraco CMS</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright James Studdart 2018</copyright>
+    <tags>Umbraco UmbracoCMS UmbracoHeadless headless UmbracoCore CleanApi</tags>
+  </metadata>
+</package>
